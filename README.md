@@ -29,4 +29,4 @@ This Excel dashboard provides a detailed performance report for a call centre, f
 3. Explore visualizations to analyze call volume, duration, revenue, and gender-based insights.
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maheen-khalid-38a0591b0/) or email me at [Email](maheenkhalid652@gamil.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maheen-khalid-38a0591b0/).
