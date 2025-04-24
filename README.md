@@ -17,11 +17,10 @@ This Excel dashboard provides a detailed performance report for a call centre, f
 - Data Cleaning & Formatting
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](./image.png)
+![Dashboard Screenshot](./callCentreReportDashboard.JPG)
 
 ## 📁 Files Included
-- `Call_Centre_Report_2025.xlsx` – Interactive dashboard
-- `Call_Centre_Data.csv` – Sample dataset (optional)
+- `Call_Centre_Report_2025.xlsx` – Interactive dashboard and Sample dataset
 - `README.md` – Project documentation
 
 ## 📌 How to Use
@@ -30,4 +29,4 @@ This Excel dashboard provides a detailed performance report for a call centre, f
 3. Explore visualizations to analyze call volume, duration, revenue, and gender-based insights.
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or email me at your@email.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maheen-khalid-38a0591b0/) or email me at [Email](maheenkhalid652@gamil.com).
