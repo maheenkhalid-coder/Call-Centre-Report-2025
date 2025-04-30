@@ -27,7 +27,7 @@ This Excel dashboard provides a detailed performance report for a call centre, f
 1. Open `Call_Centre_Report_2025.xlsx` in Microsoft Excel.
 2. Use the slicers to filter performance by representative (R01–R05).
 3. Explore visualizations to analyze call volume, duration, revenue, and gender-based insights.
-4. For previewing the dashboard, review this video: [Youtube Video](https://youtu.be/mLZ6XvsrvS4)
+4. For previewing the dashboard, review this video: [Youtube Video](https://youtu.be/mLZ6XvsrvS4).
 
 ## 📬 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maheen-khalid-38a0591b0/).
